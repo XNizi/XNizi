@@ -32,7 +32,7 @@
     <ul>
         <li><strong>Discord: </strong> <code>Nizi#6635</code></li>
         <li><strong>E-mail: </strong> <code>nizi.biznes@gmail.com</code></li>
-        <li><strong>Instragam: <a href="https:/instagram.com/realnizi/"> Instagram </a>
+        <li><strong>Instragam: <a href="https://instagram.com/realnizi/" target="_blank"> Instagram </a>
     </ul>
 </details>
 
