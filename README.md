@@ -6,7 +6,7 @@
   <li> 👦 I'm 16 Years old
     <li> 🎂 20th November
     <li> 🐶 I like animals
-<li> 🌱 I'm currently learning JavaScript, TypeScript, React and Node.js in the future 😉
+<li> 🌱 I'm currently learning JavaScript. TypeScript, React and Node.js in the future 😉
 <li> 🔭 I’m writing code in HTML, JavaScript, SCSS 
 </ul>
 
@@ -70,7 +70,7 @@
 	"editor.bracketPairColorization.enabled": true,
 	"editor.guides.bracketPairs": true,
 	"editor.smoothScrolling": true,
-	"editor.tabSize": 2,
+	"editor.tabSize": 3,
 	"editor.fontSize": 14,
 	"workbench.list.smoothScrolling": true,
 	"editor.cursorSmoothCaretAnimation": true,
