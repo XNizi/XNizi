@@ -5,7 +5,7 @@
 <ul>
   <li> 👦 I'm 16 Years old
     <li> 🎂 20th November
-<li> 🌱 I am currently learning JavaScript, Node.js in the future 😉
+<li> 🌱 I'm currently learning JavaScript, React and Node.js in the future 😉
 <li> 🔭 I’m writing code in HTML, JavaScript, SCSS 
 </ul>
 
