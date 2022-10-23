@@ -5,7 +5,8 @@
 <ul>
   <li> 👦 I'm 16 Years old
     <li> 🎂 20th November
-<li> 🌱 I'm currently learning JavaScript, React and Node.js in the future 😉
+    <li> 🐶 I like animals
+<li> 🌱 I'm currently learning JavaScript, TypeScript, React and Node.js in the future 😉
 <li> 🔭 I’m writing code in HTML, JavaScript, SCSS 
 </ul>
 
@@ -28,7 +29,7 @@
 
 </details>
 
-<details><summary><b>📧 Contact me</b></summary>
+<details><summary><b>📨 Contact me</b></summary>
     <ul>
         <li><strong>Discord: </strong> <code>Nizi#6635</code></li>
         <li><strong>E-mail: </strong> <code>nizi.biznes@gmail.com</code></li>
@@ -37,7 +38,7 @@
 </details>
 
 	
-<details> <summary> <b>📈 GitHub Stats </b> </summary>
+<details> <summary> <b>📊 GitHub Stats </b> </summary>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnizi&show_icons=true)
 	
@@ -117,11 +118,5 @@
 
 <div align="center" >
 <img src="https://komarev.com/ghpvc/?username=xnizi&&style=flat-square" align="center"/>
-<a href="https://paypal.me/nizidev" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
 </div>  
 
