@@ -50,7 +50,6 @@
 	
 ```
 {
-	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
 	"workbench.colorCustomizations": {
 		"editorBracketHighlight.foreground1": "#a0004b",
 		"editorBracketHighlight.foreground2": "#770077",
@@ -71,9 +70,8 @@
 	"editor.guides.bracketPairs": true,
 	"editor.smoothScrolling": true,
 	"editor.tabSize": 3,
-	"editor.fontSize": 14,
 	"workbench.list.smoothScrolling": true,
-	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorSmoothCaretAnimation": "on",
 	"prettier.arrowParens": "avoid",
 	"prettier.jsxSingleQuote": true,
 	"prettier.bracketSameLine": true,
@@ -89,7 +87,6 @@
 		}
 	],
 	"liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
-	"window.zoomLevel": 0,
 	"[html]": {
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
@@ -107,7 +104,11 @@
 	"files.associations": {
 		"*.kit": "html"
 	},
-	"workbench.iconTheme": "material-icon-theme"
+	"workbench.iconTheme": "material-icon-theme",
+	"files.autoSaveDelay": 5000,
+	"editor.fontFamily": "'cascadia code'",
+	"editor.fontLigatures": true,
+	"workbench.colorTheme": "Shades of Purple (Super Dark)"
 }
 
 ```
