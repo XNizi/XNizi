@@ -3,7 +3,7 @@
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 👦 I'm 17 Years old
+  <li> 👦 I'm 18 Years old
     <li> 🎂 20th November
     <li> 🐶 I like animals
 <li> 🌱 I'm currently learning JavaScript. TypeScript, React and Node.js in the future 😉
